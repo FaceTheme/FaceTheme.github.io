@@ -33,3 +33,7 @@
 - Version 1.2 support Fuzzy skin – 12 June 2020.
 - Version 1.1 support video.js v7.8.3 – 01 June 2020.
 - Launch: The launch of the Flor HTML5 Video Player project – 01 January 2020.
+
+## Support
+
+If you have any questions that are not answered in this userguide, or any bugs to report, please contact me via email through my CodeCanyon profile. Contacting through CodeCanyon will prove that you purchased the file.
