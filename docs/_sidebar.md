@@ -1,12 +1,12 @@
 - **Flor - HTML5 Video Player**
+  - [Introduction](/flor/README.md)
 
 - **Skins for Video.JS**
   - [Introduction](/videojs/README.md)
-  - [Soccer skin for Video.js](/docs/videojs/soccer/README.md)
-  - [Soccer skin for Video.js](/docs/videojs/soccer/title.md)
+  - [Soccer skin for Video.js](/videojs/soccer/README.md)
 
 - **Skins for JWPlayer**
-  - [Introduction](/docs/jwplayer/README.md)
+  - [Introduction](/jwplayer/README.md)
   - [Configuration](configuration.md)
   - [Themes](themes.md)
   - [List of Plugins](plugins.md)
