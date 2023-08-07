@@ -12,11 +12,22 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      loadSidebar: true,
+      name: 'FaceTheme',
+      repo: 'https://codecanyon.net/user/facetheme',
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      search: {
+        paths: 'auto',
+        placeholder: 'Type to search',
+        noData: 'No Results',
+        depth: 3
+      },
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.js"></script>
 </body>
 </html>
