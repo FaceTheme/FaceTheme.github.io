@@ -16,6 +16,27 @@
 
 <img src="./_images/soccer/2.png">
 
+## Downloads
+
+> [Soccer skin for Video.js](https://codecanyon.net/item/soccer-skin-for-videojs/25296862)
+
+## Include the skin on the page
+
+The base Video.js skin is made using HTML and CSS. That means you can build a custom skin by simply taking advantage of the cascading aspect of CSS and overriding the styles you’d like to change.
+
+```html
+<link rel="stylesheet" type="text/css" href="./video-js-5.10.4/video-js.min.css></link>
+<link rel="stylesheet" type="text/css" href="./video-js/videojs-soccer.min.css></link>
+
+<script type="text/javascript" src="./video-js/video.js" ></script>
+```
+
+The main class name for all skin-specific styles. To make your own skin, replace all occurrences of ‘vjs-default-skin’ with a new name. Then add your new skin name to your video tag instead of the default skin.
+
+```html
+<video class="video-js vjs-big-play-centered">
+```
+
 ## Changelog
 
 - Fixbug UI – 16 January 2023.
