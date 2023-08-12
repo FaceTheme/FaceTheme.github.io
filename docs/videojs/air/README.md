@@ -1,6 +1,6 @@
 # Air
 
-> Air skin for Video.js
+> Air Skin Retina for VideoJS
 
 <img src="./_images/air/preview.avif">
 
@@ -17,7 +17,7 @@
 
 ## Downloads
 
-> [Air skin for Video.js](https://codecanyon.net/item/air-skin-retina-for-videojs/22886702)
+> [Air Skin Retina for VideoJS](https://codecanyon.net/item/air-skin-retina-for-videojs/22886702)
 
 ## Include the skin on the page
 
