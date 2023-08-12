@@ -14,3 +14,4 @@
   - [Introduction](/jwplayer/README.md)
   - [Air skin for JW Player](/jwplayer/air/README.md)
   - [Flat skin for JW Player](/jwplayer/flat/README.md)
+  - [Thin skin for JW Player](/jwplayer/thin/README.md)
