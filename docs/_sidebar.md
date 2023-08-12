@@ -7,6 +7,7 @@
  - [Flat skin for Video.js](/videojs/flat/README.md)
  - [Fuzzy skin for Video.js](/videojs/fuzzy/README.md)
  - [Soccer skin for Video.js](/videojs/soccer/README.md)
+ - [Tube skin for Video.js](/videojs/tube/README.md)
 
 - **Skins for JWPlayer**
   - [Introduction](/jwplayer/README.md)
