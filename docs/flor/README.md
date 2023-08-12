@@ -1,6 +1,8 @@
 # Flor
 
-> HTML5 Video Player
+> Flor - HTML5 Video Player
+
+<img src="./_images/flor/preview.avif">
 
 ## Features
 
@@ -11,6 +13,12 @@
 - Support and updates
 - Wishlist Support
 - Well Documented
+
+<img src="./_images/flor/2.png" style="height:300px;">
+<img src="./_images/flor/3.png" style="height:300px;">
+<img src="./_images/flor/4.png" style="height:300px;">
+<img src="./_images/flor/5.png" style="height:300px;">
+<img src="./_images/flor/6.png" style="height:300px;">
 
 ## Reference
 
