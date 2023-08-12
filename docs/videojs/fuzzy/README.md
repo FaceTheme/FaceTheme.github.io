@@ -1,8 +1,8 @@
-# Soccer
+# Fuzzy
 
-> Soccer skin for Video.js
+> Fuzzy skin for Video.js
 
-<img src="./_images/soccer/1.png">
+<img src="./_images/fuzzy/1.png">
 
 ## Features
 
@@ -13,11 +13,11 @@
 - Wishlist Support
 - Well Documented
 
-<img src="./_images/soccer/2.png">
+<img src="./_images/fuzzy/2.png">
 
 ## Downloads
 
-> [Soccer skin for Video.js](https://codecanyon.net/item/soccer-skin-for-videojs/25296862)
+> [Fuzzy skin for Video.js](https://codecanyon.net/item/fuzzy-skin-retina-for-videojs/25162597)
 
 ## Include the skin on the page
 
@@ -25,7 +25,7 @@ The base Video.js skin is made using HTML and CSS. That means you can build a cu
 
 ```html
 <link rel="stylesheet" type="text/css" href="./video-js-8.3.0/video-js.min.css></link>
-<link rel="stylesheet" type="text/css" href="./video-js/videojs-soccer.min.css></link>
+<link rel="stylesheet" type="text/css" href="./video-js/videojs-fuzzy.min.css></link>
 
 <script type="text/javascript" src="./video-js/video.js" ></script>
 ```
@@ -38,10 +38,8 @@ The main class name for all skin-specific styles. To make your own skin, replace
 
 ## Changelog
 
-- Fixbug UI – 16 January 2023.
-- Support live mode – 10 November 2020.
 - Support responsive on mobile – 18 April 2020.
-- The launch of the Soccer Skin Retina for VideoJS 7 project – 12 December 2019.
+- The launch of the Fuzzy Skin Retina for VideoJS 7 – 23 November 2019.
 
 ## Reference
 
