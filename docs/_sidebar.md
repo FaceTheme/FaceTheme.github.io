@@ -1,6 +1,7 @@
 - [Introduction](/)
 - **Flor - HTML5 Video Player**
   - [Introduction](/flor/README.md)
+  - [Setting Menu](./flor/setting-menu.md)
 
 - **Skins for Video.JS**
   - [Introduction](/videojs/README.md)
