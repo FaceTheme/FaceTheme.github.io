@@ -3,6 +3,7 @@
   - [Introduction](/flor/README.md)
   - [Setting Menu](./flor/setting-menu.md)
   - [Setting Menu for MP4](./flor/setting-mp4.md)
+  - [Changelog](./flor/changelog.md)
 
 - **Skins for Video.JS**
   - [Introduction](/videojs/README.md)
